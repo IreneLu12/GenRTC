@@ -1,5 +1,8 @@
 # GenRTC
 Perceptual comparison for paper titled "**GenRTC: Low Bandwidth Video Conferencing System with Generative Face Coding**".
+In this perceptual experiment, frame dropping is introduced to maintain playback synchronization, it results in substantial content loss and stuttering due to excessive frame loss. Note that timeout frames are marked as "Timeout! Drop!", and frames dropped due to webrtc internal bitrate requirement detection mechanism are marked as "Loss".
+Based on below comparison, it shows that GenRTC, with its more effective adaptive encoder and precise bandwidth estimator, efficiently handles network fluctuations, providing a more stable transmission. At the same time, GenRTC maintains relatively high perceptual quality. 
+
 
 ## Case 1
 Baseline:
