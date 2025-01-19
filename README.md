@@ -18,6 +18,4 @@ Baseline:
 Ours:
 - missrate = 0.05 Vmaf = 79.51, PSNR = 29.69 SSIM = 0.95, LPIPS = 0.045
 
-
-https://github.com/user-attachments/assets/024ec52d-a213-46a2-b8e3-e242cc74d6e3
-
+https://github.com/user-attachments/assets/bd607e75-48a8-48ae-a033-49f14551a03e
