@@ -11,7 +11,8 @@ Baseline:
 Ours:
 - missrate = 0.04 Vmaf = 77.43, PSNR = 38.69 SSIM = 0.96, LPIPS = 0.055
 
-https://github.com/user-attachments/assets/6c52c9d8-1f89-4a1c-a102-0a44f56b72b8
+https://github.com/user-attachments/assets/3b6db6d3-3dbc-4524-b9ac-52f9d65c26bd
+
 
 
 ## Case 2
@@ -22,3 +23,14 @@ Ours:
 - missrate = 0.05 Vmaf = 79.51, PSNR = 29.69 SSIM = 0.95, LPIPS = 0.045
 
 https://github.com/user-attachments/assets/bd607e75-48a8-48ae-a033-49f14551a03e
+
+
+## Case 3
+Baseline:
+- missrate = 0.29 Vmaf = 88.18, PSNR = 36.63 SSIM = 0.97, LPIPS = 0.030
+
+Ours:
+- missrate = 0.03 Vmaf = 76.11, PSNR = 33.41 SSIM = 0.96, LPIPS = 0.054
+
+https://github.com/user-attachments/assets/e79d8436-9703-4fa9-8bd4-dce4f66f40f1
+
